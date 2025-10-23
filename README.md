@@ -1,4 +1,4 @@
-# Hi there, I'm Wiktor Stankiewicz 👋
+# Hi there!
 
 ## 🚀 Software Developer
 
